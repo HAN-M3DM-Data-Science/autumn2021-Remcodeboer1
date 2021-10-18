@@ -1,0 +1,34 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: Remco de Boer
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g_TJc2NctsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+
+## What was the business problem?
+
+Walmart has one of the most sophisticated data warehouses in the world. They record all transactional data and more in over 5000 stores. This data is carefully analyzed and turned into behavioral patterns. But in 2016 despite Walmart's amazing data warehouses the companies revenue was declining heavily. According to Martin Lindstrom this was because of an small problem that Walmart themselves never noticed.
+
+Because Walmart was so focussed on numbers and data that they lost track of their most important asset, the customer.  That's why Martin Lindstrom says you need to counterbalance big data with a thing called "small data". Small data doesn't grow in big warehouses but is gathered by face to face interaction with your own customers.Big Data is a big help in finding correlation between different variables, but the main piece that will be missing is causation.
+The face to face interaction is the only way to really find out what causes their behavioural patterns and create customer loyalty.
+
+So the big problem that Walmart has right now is that they are too busy with big data and warehouses, that they stop actually interacting with the customer. This way Walmart will never find the underlying reasons behind certain correlations they find in their data. 
+
+## How was it translated into a data mining problem?
+
+The problem Walmart is now facing is that they need to find a way to create face to face interactions with their customers in their own community. They will need to engage in conversations with their customers at an authentic and personal level to really get to know the customers of different stores. Once they created these face to face opportunities they will also need to find a way to translate these conversations between the company and customers into usable data.
+
+## What is the realized business value?
+Once Walmart manages to implement these face to face conversations with their customers, they will be able to gather even more data on their customers which helps them make better data driven decisions. This will increase the profit and revenue over time, but the most important part of implementing the "small data" is that customers will start to feel personally involved with the company because of these personal conversations. This will lead to more customer loyalty which eventually also leads to an increase in revenue and profit.
+
+## Bibliography
+
+Lindstrom, M. (2018, August 3). The surprisingly small reason for Walmart’s huge problem. LinkedIn. https://www.linkedin.com/pulse/surprisingly-small-reason-walmarts-huge-problem-martin-lindstrom/

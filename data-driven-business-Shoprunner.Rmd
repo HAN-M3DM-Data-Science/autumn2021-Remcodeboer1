@@ -1,0 +1,59 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_LXW9T64mM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+
+## What features define a data driven business?
+
+Before defining the features of a mature data driven business, it's important to know what data maturity means for a business. Safegraph.com gives the following description"Data maturity is a measurement of the extent to which an organization is utilizing their data. To achieve a high level of data maturity, data must be deeply ingrained in the organization, and be fully incorporated into all decision making and practices. Data maturity is often measured in stages(Palmer, 2021)."
+
+There are many different stages of data maturity according to the data maturity model. There are a total of 4 levels: Explorer, User, Leader and Innovator.
+Each company is ranked in different aspects of their company and depending on what extent they are using data they are at a certain level as seen in the image below.
+
+<img src="https://assets-global.website-files.com/5d6eeb9e2fd62f9ef2207695/60084d8c3b2fd0c4b5733288_Data%20Maturity%20Model.png" alt="Data Maturity model">
+(Palmer, 2021)
+
+
+## What are the important features of a data culture?
+According to the CEO of Shoprunner a data cultured company has 3 big features.
+
+The first feature is Leadership Participation. In many companies only the specialist are able to understand and analyse data. But for a company to be truly data cultured the Leadership needs to lead by example. Once the leadership of the company is data literate the rest will soon follow.
+
+The second feature is Democratized Data. It is of great importance that everyone in the company has transparent access to the data. In many companies data is only available to certain business units or experts in a company. Once the data is democratized it will create many different benefits like:
+
+- It creates a single source of truth from multiple data sources.
+- It improves people’s work efficiency to focus on higher-value activities.
+- Trust, gained through the transparency of the processes across the organization.
+- Clear insights to ensure data privacy is respected, and data is appropriately secured.
+
+Then the last feature of a data cultured company is that everyone in the company is data literate. Every employee needs to have the following ablities:
+
+- Strong knowledge of the data
+- The awareness of new or changes in the data changes
+- A clear understanding of how to interpret data
+- A level of curiosity and critical thinking to question the data.
+
+Shoprunner makes sure that every employee has the stated abilities in a couple different ways. First of all during the hiring process Shoprunner will ask data related question and they will ask about their experience with data. Secondly, whenever an employee has a data related problem for the technical team instead of just solving the problem for them they will teach that certain employee to fix it himself to ensure the question won't occur a second time.
+
+
+## What are the transformation steps towards a mature data driven business?
+
+The way Shoprunner became a data cultured and mature data driven business is making sure they were exercising all 3 of these features. Shoprunner started their innovations with the management. The idea behind starting data driven decision making at a management level is that their employees will realize that the management has started making decisions based on data, so they assume it is also expected of them and makes it easier to switch to 3DM. This way the method of making data through decisions flows through the different levels of the organizations easily.
+
+Shoprunner made sure everyone was data literate, by only hiring data literate people and whenever anyone had a data related problem they wouldn't just solve the problem for the employee, but they would teach the employee to solve it themselve. This way the same problem never occurs twice.
+
+Lastly Shoprunner made sure that everyone was able to acces the data through the cloud.
+
+## Bibliography
+
+- Palmer, K. (2021, January 20). Four stages of data maturity. SafeGraph. Retrieved October 18, 2021, from https://www.safegraph.com/blog/the-four-stages-of-data-maturity
+- Gumpper, D. (2020, January 17). Characteristics of a Data-Driven Organization. WAV Group Consulting. Retrieved October 18, 2021, from https://www.wavgroup.com/2020/01/09/characteristics-of-a-data-driven-organization/
